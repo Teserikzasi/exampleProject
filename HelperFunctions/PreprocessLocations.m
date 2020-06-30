@@ -1,6 +1,6 @@
 function quakes = PreprocessLocations(quakes)
 % PREPROCESSLOCATIONS Preprocess location strings
- 
+% hihi haha
 % In this case, we just want the country or state, which we can get from the 
 % strings. 
 quakes.Loc = erase(quakes.place,"_");
